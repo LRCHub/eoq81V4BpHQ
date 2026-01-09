@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Requiem for Fate",
+  "base_artist": "Roselia",
+  "createdAt": "2026-01-09T03:27:21.109944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Requiem for Fate",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_Requiem_for_Fate_Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Requiem for Fate",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_Requiem_for_Fate_Roselia.txt"
+    }
+  ]
+}
